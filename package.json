@@ -56,7 +56,6 @@
     "@stdlib/ndarray-shape": "^0.2.3",
     "@stdlib/ndarray-strides": "^0.2.3",
     "@stdlib/ndarray-to-array": "^0.2.2",
-    "@stdlib/random-array-uniform": "^0.2.2",
     "@stdlib/random-uniform": "^0.1.1",
     "@stdlib/string-format": "^0.2.3",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
